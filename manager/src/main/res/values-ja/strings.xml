@@ -31,7 +31,7 @@
     <string name="manage_optimize_failed">最適化に失敗しました</string>
     <string name="manage_uninstall_successfully">アンインストールが成功しました</string>
     <!-- New Patch Page -->
-    <string name="page_new_patch">新しいパッチ</string>
+    <string name="page_new_patch">新規のパッチ</string>
     <string name="patch_select_dir_title">ストレージディレクトリを選択してください</string>
     <string name="patch_select_dir_text">パッチを適用したapkを保存するディレクトリを選択してください</string>
     <string name="patch_select_dir_error">ストレージディレクトリの設定中にエラーが発生しました</string>
@@ -43,13 +43,13 @@
     <string name="patch_portable">ポータブル</string>
     <string name="patch_portable_desc">モジュールを埋め込んでアプリにパッチを適用します。\nパッチが適用されたアプリは、LSPatch Managerがない状態で実行できますが、動的に管理することはできません。\nポータブルでパッチをされたアプリは、LSPatch Managerがインストールされていないデバイスでも使用ができます。</string>
     <string name="patch_embed_modules">モジュールを埋め込む</string>
-    <string name="patch_debuggable">デバッグ可能</string>
+    <string name="patch_debuggable">デバッグを可能にする</string>
     <string name="patch_sign">署名</string>
     <string name="patch_sigbypass">署名のバイパス</string>
     <string name="patch_sigbypasslv0">lv0：オフ</string>
     <string name="patch_sigbypasslv1">lv1：PMをバイパス</string>
     <string name="patch_sigbypasslv2">lv2：PMをバイパス + openat (libc)</string>
-    <string name="patch_override_version_code">バージョンコードを上書きする</string>
+    <string name="patch_override_version_code">バージョンコードを上書き</string>
     <string name="patch_override_version_code_desc">パッチを適用するアプリのバージョンコードを1に上書きします。\nこれを行う事で将来的にダウングレードのインストールが可能になります。アプリが通常時に認識するバージョンコードには影響は与えません。</string>
     <string name="patch_start">パッチを開始</string>
     <string name="patch_return">戻る</string>
