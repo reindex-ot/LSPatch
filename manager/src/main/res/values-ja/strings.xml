@@ -10,7 +10,7 @@
     <string name="page_repo">リポジトリ</string>
     <string name="page_logs">ログ</string>
     <!-- Home Page -->
-    <string name="home_shizuku_warning">一部の機能が利用できません</string>
+    <string name="home_shizuku_warning">一部の機能が使用できません</string>
     <string name="home_api_version">APIバージョン</string>
     <string name="home_lspatch_version">LSPatchバージョン</string>
     <string name="home_framework_version">フレームワークバージョン</string>
